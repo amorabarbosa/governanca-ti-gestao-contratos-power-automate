@@ -32,4 +32,5 @@ Automatizar o acompanhamento de vencimentos contratuais e notificar os responsá
 ## Autor
 
 Amora Barbosa Pereira
+
 Analista Administrativo PL
