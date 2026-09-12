@@ -4,14 +4,14 @@
 
 - Consultar contratos cadastrados;
 - Verificar datas de vencimento;
-- Identificar contratos próximos ao vencimento;
+- identificar contratos próximos ao vencimento;
 - Enviar notificações por e-mail;
 - Registrar as ações executadas.
 
 ## Requisitos Não Funcionais
 
 - Execução automática diária;
-- Fácil manutencao;
+- Conservacao;
 - Baixo esforço operacional;
 - Integração com Microsoft 365.
 
