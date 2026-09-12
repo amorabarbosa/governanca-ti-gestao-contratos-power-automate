@@ -16,13 +16,11 @@ Campos utilizados:
 - StatusVencimento
 
 
-
 ## Etapa 2 - Criação do Fluxo no Power Automate
 
 Foi criado um fluxo automatizado com execução diária para verificar contratos próximos ao vencimento.
 
-![/imagens/02-fluxopowerauto.png
-
+![Fluxo de Vencimento](../imagens/02-fluxopowerauto.png)
 
 ## Etapa 3 - Consulta dos Contratos
 
@@ -33,7 +31,7 @@ Foi utilizada a ação **Get Items** para recuperar os contratos cadastrados na 
 Foi criada uma condição para identificar contratos com vencimento em até 30 dias.
 Mas para melhor comunicação a gestão solicitou que os avisos fossem dados em 90, 60 e 30 dias antes da data de vencimento.
 
-imagens/03- condicoes.png
+![Condição de vencimento](../imagens/03-%20condicoes.png)
 
 
 ## Etapa 5 - Envio das Notificações
@@ -42,7 +40,7 @@ Após validar os contratos, o fluxo envia automaticamente um e-mail ao responsá
 
 O e-mail contém:
 
-imagens/04- emailaviso.png
+![Email enviado](../imagens/04-%20emailaviso.png)
 
 ## Etapa 6 - Resultado Final
 
